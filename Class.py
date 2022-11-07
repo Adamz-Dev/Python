@@ -13,6 +13,7 @@ class Cars ():
         
     def navigation(self, direction):
         print(f"turn {direction}")
+        
 
 car= Cars()
 car.brand="Tesla"
